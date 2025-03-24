@@ -1,2 +1,2 @@
-# Programaci-nSoftLicores
-Software de Licores 
+# ProgramacionSoftLicores
+## Software Licores 
